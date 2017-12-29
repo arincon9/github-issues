@@ -1,6 +1,6 @@
 # GithubIssues
 
-**TODO: Add description**
+A command line tool written in Elixir to get a list of the latest github project's issues.
 
 ## Installation
 
